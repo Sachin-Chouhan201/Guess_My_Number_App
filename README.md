@@ -17,7 +17,7 @@ To run the game locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/guess-my-number.git
+   git clone https://github.com/Sachin-Chouhan201/Guess_My_Number_App.git 
 Navigate to the Project Directory:
 cd guess-my-number
 Open index.html in Your Browser:
